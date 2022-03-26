@@ -22,7 +22,7 @@ After that go in `index.js` and put your token in line 15 !
 
 After you've done all that, you can finally run BotCleaner by typing in the following command:
 ```
-node index.py
+node index.js
 ```
 
 # Credits
