@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+      "discord.js": "^12.5.3"
+    },
+    "name": "botcleaner",
+    "description": "It's a script with which you can delete all bot DMs messages to avoid reports !",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "author": "baby",
+    "license": "ISC"
+  }
+  
